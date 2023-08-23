@@ -1,4 +1,7 @@
 Sem conflitos
 Iniciando conflito
+<<<<<<< HEAD
 
 Vamos começar mais um conflito aqui
+Iniciando mais um conflito
+
