@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Sem conflitos
+=======
+Iniciando conflito
+>>>>>>> 101761d2b2d98991f438376d4e62d7efb52e75e1
